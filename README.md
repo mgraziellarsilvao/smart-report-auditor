@@ -60,11 +60,15 @@ smart-report-auditor/
 ├── README.md
 ├── .gitignore
 ├── data/
-│   └── exemplo_relatorio_operacional.csv
+│   ├── 01_vendas_ecommerce
+│   ├── 02_chamados_suporte
+│   ├── 03_campanhas_marketing
+│   ├── 04_estoque_varejo
+│   ├── 05_assinaturas_saas
+│   ├── 06_rh_treinamentos_lgpd_teste
+│   ├── 07_relatorio_operacional
 └── docs/
     ├── gamma_prompt.md
-    ├── lovable_prompt.md
-    ├── linkedin_post.md
     └── roadmap.md
 ```
 
