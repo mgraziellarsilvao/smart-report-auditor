@@ -1,0 +1,9 @@
+﻿data_cobranca,plano,segmento_cliente,status_pagamento,receita_mensal,desconto,churn_risco,competencia
+2026-01-01,Basic,PME,Pago,79.9,0,Baixo,2026-01
+2026-01-01,Pro,Enterprise,Pago,499.9,50,Baixo,2026-01
+2026-02-01,Pro,Enterprise,Atrasado,499.9,0,Médio,2026-02
+2026-02-01,Basic,PME,Cancelado,-79.9,0,Alto,2026-02
+2026-03-01,Premium,Enterprise,Pago,2500.0,500,Baixo,2026-03
+2026-03-01,premium,Enterprise,Pago,2500.0,500,Baixo,2026-03
+2026-03-12,,PME,Pago,99.9,0,Médio,2026-03
+,Basic,PME,Pendente,79.9,0,Alto,2026-03

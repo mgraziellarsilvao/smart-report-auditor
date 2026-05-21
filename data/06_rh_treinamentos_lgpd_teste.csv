@@ -1,0 +1,7 @@
+﻿nome_colaborador,email,data_treinamento,area,curso,status,horas,nota_avaliacao,competencia
+Ana Exemplo,ana.exemplo@email.com,2026-01-10,Comercial,Excel,Concluído,8,9.5,2026-01
+Bruno Teste,bruno.teste@email.com,2026-01-12,Operações,Power BI,Concluído,12,8.7,2026-01
+Carla Demo,,2026-02-05,RH,Comunicação,Pendente,4,0,2026-02
+Bruno Teste,bruno.teste@email.com,2026-01-12,Operações,Power BI,Concluído,12,8.7,2026-01
+Diego Simulado,diego.simulado@email.com,2026/03/20,TI,Segurança da Informação,Concluído,40,10,2026-03
+,sem.nome@email.com,,Financeiro,Compliance,Pendente,6,0,2026-03

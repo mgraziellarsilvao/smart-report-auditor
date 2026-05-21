@@ -1,0 +1,9 @@
+﻿data_abertura,produto,tipo_chamado,prioridade,status,tempo_resposta_horas,satisfacao_cliente,competencia
+2026-01-04,Portal,Erro de acesso,Alta,Resolvido,2.5,4.8,2026-01
+2026-01-06,App,Dúvida de uso,Baixa,Resolvido,6.0,4.2,2026-01
+2026-01-06,App,Dúvida de uso,Baixa,Resolvido,6.0,4.2,2026-01
+2026-02-12,Portal,Erro de Acesso,Alta,Pendente,48.0,2.0,2026-02
+2026-02-20,Sistema Interno,Bug,Crítica,Em análise,72.0,1.8,2026-02
+2026-03-01,App,Dúvida de uso,Baixa,resolvido,0,4.6,2026-03
+2026-03-07,Portal,,Média,Pendente,15.0,3.5,2026-03
+2026/03/18,Sistema Interno,Bug,Crítica,Resolvido,120.0,2.1,2026-03

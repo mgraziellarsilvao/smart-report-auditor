@@ -1,0 +1,23 @@
+﻿data_lancamento,area,categoria,unidade,centro_custo,tipo_custo,valor,descricao,status,prioridade,competencia
+2026-01-05,Operações,Manutenção Corretiva,SP Norte,CC-101,OPEX,18500,Chamado emergencial em ativo digital,Concluído,Alta,2026-01
+2026-01-08,Operações,Manutencao Corretiva,SP Norte,CC-101,OPEX,22400,Chamado corretivo com troca de peça,Concluído,Alta,2026-01
+2026-01-12,Facilities,Energia Elétrica,SP Centro,CC-204,OPEX,9800,Conta energia abrigo digital,Concluído,Média,2026-01
+2026-01-20,Logística,Transporte,RJ,CC-302,OPEX,5300,Deslocamento técnico,Pendente,Baixa,2026-01
+2026-02-02,Engenharia,Implantação de Ativos,SP Sul,CC-410,CAPEX,78000,Instalação novo equipamento,Concluído,Alta,2026-02
+2026-02-15,Operações,Manutenção Preventiva,SP Norte,CC-101,OPEX,12000,Roteiro preventivo mensal,Concluído,Média,2026-02
+2026-02-18,Facilities,Energia eletrica,SP Centro,CC-204,OPEX,11200,Energia painel digital,Concluído,Média,2026-02
+2026-02-21,Administrativo,Serviços Terceiros,Backoffice,,OPEX,8600,Apoio administrativo contrato,Pendente,Média,2026-02
+2026-03-01,Operações,Manutenção Corretiva,SP Norte,CC-101,OPEX,0,Chamado sem valor informado,Concluído,Alta,2026-03
+2026-03-07,Operações,Manutenção Corretiva,SP Norte,CC-101,OPEX,35500,Aumento de chamados por falha recorrente,Concluído,Alta,2026-03
+2026-03-07,Operações,Manutenção Corretiva,SP Norte,CC-101,OPEX,35500,Aumento de chamados por falha recorrente,Concluído,Alta,2026-03
+2026-03-12,Logística,Transporte,RJ,CC-302,OPEX,-1200,Ajuste manual indevido,Concluído,Baixa,2026-03
+2026-04-04,Engenharia,Implantação de Ativos,SP Sul,CC-410,CAPEX,92000,Instalação adicional,Concluído,Alta,2026-04
+2026-04-09,Facilities,Energia Elétrica,SP Centro,CC-204,OPEX,15600,Energia acima da média,Concluído,Média,2026-04
+2026-04-15,Operações,,SP Norte,CC-101,OPEX,18000,Categoria não preenchida,Pendente,Alta,2026-04
+2026-05-03,Administrativo,Serviços Terceiros,Backoffice,CC-508,OPEX,9100,Contrato administrativo,Concluído,Média,2026-05
+2026-05-11,Operações,Manutenção Preventiva,SP Norte,CC-101,OPEX,12500,Roteiro preventivo mensal,Concluído,Média,2026-05
+2026-05-18,Facilities,Energia Elétrica,SP Centro,CC-204,OPEX,16900,Conta energia,Concluído,Média,2026-05
+2026-06-01,Operações,Manutenção Corretiva,SP Norte,CC-101,OPEX,30100,Chamados corretivos concentrados,Concluído,Alta,2026-06
+2026-06-10,Logística,Transporte,RJ,CC-302,OPEX,6500,Frete técnico,Concluído,Baixa,2026-06
+2026/06/18,Engenharia,Implantação de Ativos,SP Sul,CC-410,CAPEX,87000,Formato de data diferente,Concluído,Alta,2026-06
+,Operações,Manutenção Corretiva,SP Norte,CC-101,OPEX,21500,Data ausente,Pendente,Alta,2026-06

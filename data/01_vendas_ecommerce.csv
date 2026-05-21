@@ -1,0 +1,11 @@
+﻿data_pedido,canal,categoria_produto,regiao,status_pedido,valor_venda,quantidade,competencia
+2026-01-03,Site,Eletrônicos,Sudeste,Entregue,1850.9,1,2026-01
+2026-01-05,Marketplace,Casa,Sul,Entregue,420.5,2,2026-01
+2026-01-12,Site,Eletronicos,Sudeste,Entregue,1850.9,1,2026-01
+2026-02-01,App,Moda,Nordeste,Cancelado,-199.9,1,2026-02
+2026-02-09,Site,,Sudeste,Entregue,320.0,1,2026-02
+2026-02-21,Marketplace,Beleza,Centro-Oeste,Entregue,89.9,1,2026-02
+2026-03-02,App,Casa,Sul,entregue,610.0,3,2026-03
+2026-03-15,Site,Eletrônicos,Sudeste,Entregue,15000.0,1,2026-03
+2026/03/22,Marketplace,Moda,Norte,Pendente,259.9,1,2026-03
+,App,Beleza,Sudeste,Entregue,120.0,2,2026-03

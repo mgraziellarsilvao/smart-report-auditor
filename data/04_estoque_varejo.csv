@@ -1,0 +1,9 @@
+﻿data_movimento,loja,categoria,sku,tipo_movimento,quantidade,custo_unitario,competencia
+2026-01-03,Loja A,Bebidas,SKU-001,Entrada,120,4.5,2026-01
+2026-01-08,Loja A,Bebida,SKU-001,Saída,-40,4.5,2026-01
+2026-01-15,Loja B,Higiene,SKU-055,Entrada,80,8.9,2026-01
+2026-02-02,Loja C,Alimentos,SKU-090,Entrada,1000,2.1,2026-02
+2026-02-02,Loja C,Alimentos,SKU-090,Entrada,1000,2.1,2026-02
+2026-02-20,Loja B,,SKU-055,Saída,-20,8.9,2026-02
+2026/03/05,Loja A,Bebidas,SKU-001,Ajuste,0,4.5,2026-03
+,Loja C,Alimentos,SKU-091,Entrada,150,3.2,2026-03
