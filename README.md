@@ -1,1 +1,0 @@
-# smart-report-auditor
