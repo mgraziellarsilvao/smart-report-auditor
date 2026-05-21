@@ -62,9 +62,6 @@ smart-report-auditor/
 ├── data/
 │   └── exemplo_relatorio_operacional.csv
 └── docs/
-    ├── gamma_prompt.md
-    ├── lovable_prompt.md
-    ├── linkedin_post.md
     └── roadmap.md
 ```
 
